@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2> Seja bem-vindo(a) </h2>
 
 <!--
 **rebeca-namura/rebeca-namura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
