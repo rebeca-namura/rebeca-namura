@@ -1,4 +1,6 @@
-<h2> Seja bem-vindo(a) </h2>
+<p align="center">
+  <img src="https://github.com/kterra/kterra/raw/main/assets/header-github.gif" alt="Oi, eu sou a Kizzy">
+</p>
 
 <!--
 **rebeca-namura/rebeca-namura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
