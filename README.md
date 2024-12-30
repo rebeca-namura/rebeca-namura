@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rebeca-namura/rebeca-namura/assets/gifGit.gif">
+  <img src="">
 </p>
 
 
