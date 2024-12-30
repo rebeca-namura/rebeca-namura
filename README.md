@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/kterra/kterra/raw/main/assets/header-github.gif" alt="Oi, eu sou a Kizzy">
+  <img src="https://github.com/rebeca-namura/rebeca-namura/assets/gifGit.gif">
 </p>
+
 
 <!--
 **rebeca-namura/rebeca-namura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
