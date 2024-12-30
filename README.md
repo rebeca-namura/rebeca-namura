@@ -1,6 +1,15 @@
 <p align="center">
-  <img src="https://github.com/rebeca-namura/rebeca-namura/blob/main/gifGit.gif?raw=true">
+  <img src="https://github.com/rebeca-namura/rebeca-namura/blob/main/gifGit.gif?raw=true" alt="Olá, sou a Rebeca :)">
 </p>
+
+🤖 Aluna Inteli 1° ano
+
+✍️ Curso: Ciências da Computação
+
+<!-- Para fazer o gif:
+me inspirei na [kterra]https://github.com/kterra
+fiz um vídeo no app capcut (mobile) e converti para gif em https://ezgif.com/video-to-gif
+fiz upload no repositório e copiei o endereço da imagem no src -->
 
 
 <!--
