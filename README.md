@@ -20,7 +20,7 @@
       <summary> Os mais clássicos</summary>
         <dl>
   <dt>🎨 Pintar</dt>
-  <dd>- Minhas obras:<br> <img width=40% height=40% src=""> </dd>
+  <dd>- Minhas obras:<br> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_1243.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_1243.JPEG?raw=true"> </dd>
   <dt>Milk</dt>
   <dd>- white cold drink</dd>
 </dl>
