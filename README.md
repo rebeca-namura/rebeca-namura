@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=100% height=400px src="https://github.com/rebeca-namura/rebeca-namura/blob/main/gifGit.gif?raw=true" alt="Olá, sou a Rebeca :)">
+  <img width=150% height=400px src="https://github.com/rebeca-namura/rebeca-namura/blob/main/gifGit.gif?raw=true" alt="Olá, sou a Rebeca :)">
 </p>
 
 <!-- Para fazer o gif:
@@ -13,7 +13,7 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
 🤖 Um pouco de experiência em programação<br>
 👾 Meu sonho é trabalhar com desenvolvimento de jogos e criar um de grande sucesso
 <details>
-  <summary>👤 Um pouca mais sobre mim</summary>
+  <summary>👤 Um pouco mais sobre mim</summary>
   <p> 
   🌟 Me considero uma pessoa muito criativa <br>
   🌈 Cores favoritas: preto, roxo, vermelho e azul<br>
@@ -36,14 +36,17 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
     <details>
       <summary>🧙‍♂️ Somentes para os nerds</summary>
       <dl>
-        <dt>🎲🧝‍♂️ RPG de mesa (TTRPG)</dt>
-        <br><br>
+        <dt>🎲 RPG de mesa (TTRPG)</dt>
+        <br>
         <dd>Os sistemas que eu jogo:<br>
           <ul>
-            <li>Dungeons&Drangons (meu favorito)<br>Biblioteca de D&D:<br><img src""></li>
-            <li>Ordem Paranormal</li>
-            <li>Tales from the Loop </li> 
+            <li>🧝‍♂️ Dungeons&Dragons (meu favorito)</li>
+            <li>👻 Ordem Paranormal</li>
+            <li>🕵️‍♀️ Tales from the Loop </li> <br>
+            Biblioteca de D&D:<br><img src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_8773.JPEG?raw=true" height=30% width=30%>
           </ul></dd>
+        <dt>🧚‍♀️ Cosplay</dt><br>
+        <dd>Alguns personagens que já fiz:<br><img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_2614.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/2-0X2A8710-Aprimorado-NR.PNG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/EF6553B4-FCFB-4F76-B38D-7E284D6AB80C.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_0464.JPEG?raw=true"> <img width=12% height=12% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_3786.JPEG?raw=true"></dd>
       </dl>
     </details>
   </p>
