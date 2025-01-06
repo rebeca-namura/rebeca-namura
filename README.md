@@ -6,19 +6,23 @@
 me inspirei na [kterra]https://github.com/kterra
 fiz um vídeo no app capcut (mobile) e converti para gif em https://ezgif.com/video-to-gif
 fiz upload no repositório e copiei o endereço da imagem no src -->
-
+<h2>O Começo antes do Fim:</h2>
 💁‍♀️ 18 anos<br>
 👩‍💻 Aluna Inteli <br>
 ✍️ 1° ano de Ciências da Computação<br>
 🤖 Um pouco de experiência em programação<br>
-👾 Meu sonho é trabalhar com desenvolvimento de jogos e criar um de grande sucesso
-<details>
-  <summary>👤 Um pouco mais sobre mim</summary>
+👾 Meu sonho é trabalhar com desenvolvimento de jogos e criar um de grande sucesso <br><br>
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+<h2>Um pouco mais sobre mim</h2>
+  <details>
+  <summary>👤 Quem é a Rebeca?</summary>
   <p> 
+  <p>
   🌟 Me considero uma pessoa muito criativa <br>
   🌈 Cores favoritas: preto, roxo, vermelho e azul<br>
   🍄 Amo natureza<br>
-  ☕️ Movida à base de cafeína <br>
+  🦈 Tubarão é meu animal favorito <br>
+  ☕️ Movida à base de cafeína <br></p>
    <!--<hr width=50% style="dotted">-->
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *<br>
 💡 Hobbies:
@@ -46,7 +50,7 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
             Biblioteca de D&D:<br><img src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_8773.JPEG?raw=true" height=30% width=30%>
           </ul></dd>
         <dt>🧚‍♀️ Cosplay</dt><br>
-        <dd>Alguns personagens que já fiz:<br><img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_12-01-2024-15-48-07.JPEG?raw=true"> <img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_27-04-2024-18-28-38.JPEG?raw=true"> <img width=18% height=16% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_18-12-2024-16-44-34.JPEG?raw=true"> <img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6343.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6231.PNG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_11-04-2023-11-58-32.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/3-0X2A8702-Aprimorado-NR.PNG?raw=true"> <br><br>📱 Redes sociais do assunto:<br> <br> <a href="https://instagram.com/_www.n0t_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kizzy_terra" height="30" width="40"/></a> <a href="https://www.tiktok.com/@www.n0t_end.cos?is_from_webapp=1&sender_device=pc" target="blank"><img src="https://github.com/rebeca-namura/rebeca-namura/blob/main/tik-tok.png?raw=true" height="40" width="40"></a></dd> <!-- para o icone do tiktok
+        <dd>Alguns personagens que já fiz:<br><img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_12-01-2024-15-48-07.JPEG?raw=true"> <img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_27-04-2024-18-28-38.JPEG?raw=true"> <img width=18% height=16% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_18-12-2024-16-44-34.JPEG?raw=true"> <img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6343.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6231.PNG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_11-04-2023-11-58-32.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/3-0X2A8702-Aprimorado-NR.PNG?raw=true"> <br><br>📱 Redes sociais do assunto:<br> <br> <a href="https://instagram.com/_www.n0t_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40"/></a> <a href="https://www.tiktok.com/@www.n0t_end.cos?is_from_webapp=1&sender_device=pc" target="blank"><img src="https://github.com/rebeca-namura/rebeca-namura/blob/main/tik-tok.png?raw=true" height="40" width="40"></a></dd> <!-- para o icone do tiktok
 <a href="https://www.flaticon.com/free-icons/tiktok" title="tiktok icons">Tiktok icons created by Freepik - Flaticon</a> -->
         <dt>🌸 Assistir Animes</dt><br>
         <dd>Atualmente estou assistindo: Fullmetal Alchemist 🦾</dd>
@@ -59,9 +63,16 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
       Adoro colecionar livros raros (e, geralmente, caros) sobre criaturas feéricas (fadas, gnomos, trolls, etc) ou mitológicas e mundos mágicos. Gosto muito de aprender sobre coisas míticas e fantásticas, por mais que eu não acredite em sua existência.
     </p>
   </details>
-</details>
-
-
+</details><br>
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+<h2>✨Minha Buddy✨</h2>
+<p></p>
+<br>
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+<h3>Minhas redes sociais:</h3>
+<a href="https://instagram.com/rebeca.namura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a> <img src>
+<!--<a href="https://www.flaticon.com/free-icons/contact" title="contact icons">Contact icons created by meaicon - Flaticon</a>
+para o icone do email-->
 <!--
 **rebeca-namura/rebeca-namura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
