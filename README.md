@@ -30,7 +30,7 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
   <dt>🧵 Costurar</dt>
   <dd>- Minhas Produções:<br> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_7447.JPEG?raw=true"> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6313.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_5207.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_5734.JPEG?raw=true"></dd>
   <dt>💄 Maquiagem</dt>
-  <dd>- Minhas Produções:<br> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_7447.JPEG?raw=true"> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6313.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_5207.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_5734.JPEG?raw=true"></dd>
+  <dd>- Minhas Produções:<br> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_2614.JPEG?raw=true"> <img width=10% height=10% src=""> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_5207.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_5734.JPEG?raw=true"></dd>
 </dl>
     </details>
   </p>
