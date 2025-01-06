@@ -1,23 +1,30 @@
 <p align="center">
-  <img src="https://github.com/rebeca-namura/rebeca-namura/blob/main/gifGit.gif?raw=true" alt="Olá, sou a Rebeca :)">
+  <img width=100% height=400px src="https://github.com/rebeca-namura/rebeca-namura/blob/main/gifGit.gif?raw=true" alt="Olá, sou a Rebeca :)">
 </p>
 
-👩‍💻 Aluna Inteli
-
-✍️ 1° ano Ciências da Computação
-
-🤖 Um pouco de experiência em computação
+👩‍💻 Aluna Inteli <br>
+✍️ 1° ano de Ciências da Computação<br>
+🤖 Um pouco de experiência em programação
 
 <details>
   <summary>👤 Um pouca mais sobre mim</summary>
   <p> 
   🌟 Me considero uma pessoa muito criativa <br>
-  🌈 Cores favoritas: preto, roxo, vermelho e azul
-  🍄 Amo natureza
-
-  
-  
-  
+  🌈 Cores favoritas: preto, roxo, vermelho e azul<br>
+  🍄 Amo natureza<br>
+  ☕️ Movida à base de cafeína <br>
+   <!--<hr width=50% style="dotted">-->
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *<br>
+💡 Hobbies:
+    <details>
+      <summary> Os mais clássicos</summary>
+        <dl>
+  <dt>🎨 Pintar</dt>
+  <dd>- Minhas obras:<br>oii</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink</dd>
+</dl>
+    </details>
   </p>
 </details>
 <!-- Para fazer o gif:
