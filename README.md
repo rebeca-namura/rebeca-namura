@@ -70,7 +70,9 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
 <br>
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 <h3>Minhas redes sociais:</h3>
-<a href="https://instagram.com/rebeca.namura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a> <img src>
+<p>
+<a href="https://instagram.com/rebeca.namura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40"></a>    <a href="mailto:rebeca.sbroglio@sou.inteli.edu.br"><img  height="40" width="40" src="https://github.com/rebeca-namura/rebeca-namura/blob/main/mail.png?raw=true"></a>
+</p>
 <!--<a href="https://www.flaticon.com/free-icons/contact" title="contact icons">Contact icons created by meaicon - Flaticon</a>
 para o icone do email-->
 <!--
