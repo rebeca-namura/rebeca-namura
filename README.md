@@ -46,7 +46,7 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
             Biblioteca de D&D:<br><img src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_8773.JPEG?raw=true" height=30% width=30%>
           </ul></dd>
         <dt>🧚‍♀️ Cosplay</dt><br>
-        <dd>Alguns personagens que já fiz:<br><img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_12-01-2024-15-48-07.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/2-0X2A8710-Aprimorado-NR.PNG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/EF6553B4-FCFB-4F76-B38D-7E284D6AB80C.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_0464.JPEG?raw=true"> <img width=12% height=12% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_3786.JPEG?raw=true"></dd>
+        <dd>Alguns personagens que já fiz:<br><img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_12-01-2024-15-48-07.JPEG?raw=true"> <img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_27-04-2024-18-28-38.JPEG?raw=true"> <img width=18% height=18% src=""> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_0464.JPEG?raw=true"> <img width=12% height=12% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_3786.JPEG?raw=true"></dd>
       </dl>
     </details>
   </p>
