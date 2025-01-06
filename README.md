@@ -66,7 +66,7 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
 </details><br>
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 <h2>✨Minha Buddy✨</h2>
-<p></p>
+<p>Quem está me ajundando nessa nova jornada é a <a href="https://github.com/lupetenazzi">Luiza Petenazzi</a>. Agradeço muito a sua ajuda, você foi muito meiga comigo desde o ínicio. Espero evoluir muito com sua ajuda e com o Inteli!</p>
 <br>
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 <h3>Minhas redes sociais:</h3>
