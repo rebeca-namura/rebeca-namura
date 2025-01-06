@@ -20,7 +20,7 @@
       <summary> Os mais clássicos</summary>
         <dl>
   <dt>🎨 Pintar</dt>
-  <dd>- Minhas obras:<br>oii</dd>
+  <dd>- Minhas obras:<br> <img width=40% height=40% src=""> </dd>
   <dt>Milk</dt>
   <dd>- white cold drink</dd>
 </dl>
