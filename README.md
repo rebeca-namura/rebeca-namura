@@ -22,7 +22,7 @@
   <dt>🎨 Pintar</dt>
   <dd>- Minhas obras:<br> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_1243.JPEG?raw=true"> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_2245.JPEG?raw=true"> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_7807.JPEG?raw=true"> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_8604.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6766.JPEG?raw=true"></dd>
   <dt>🧵 Costurar</dt>
-  <dd>- Minhas Produções:<br> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6766.JPEG?raw=true"></dd>
+  <dd>- Minhas Produções:<br> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_7447.JPEG?raw=true"></dd>
 </dl>
     </details>
   </p>
