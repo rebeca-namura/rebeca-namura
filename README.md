@@ -30,14 +30,20 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
   <dt>🧵 Costurar</dt>
   <dd>- Minhas Produções:<br> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_7447.JPEG?raw=true"> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6313.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_5207.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_5734.JPEG?raw=true"></dd>
   <dt>💄 Maquiagem</dt>
-  <dd>- Minhas Produções:<br> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_2614.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/2-0X2A8710-Aprimorado-NR.PNG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/EF6553B4-FCFB-4F76-B38D-7E284D6AB80C.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_0464.JPEG?raw=true"> <img width=12% height=12% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_3786.JPEG?raw=true"></dd>
+  <dd>- Meus Looks:<br> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_2614.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/2-0X2A8710-Aprimorado-NR.PNG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/EF6553B4-FCFB-4F76-B38D-7E284D6AB80C.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_0464.JPEG?raw=true"> <img width=12% height=12% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_3786.JPEG?raw=true"></dd>
 </dl>
     </details>
     <details>
       <summary>🧙‍♂️ Somentes para os nerds</summary>
       <dl>
         <dt>🎲🧝‍♂️ RPG de mesa (TTRPG)</dt>
-        <dd>Os sistemas que eu jogo:<br></dd>
+        <br><br>
+        <dd>Os sistemas que eu jogo:<br>
+          <ul>
+            <li>Dungeons&Drangons (meu favorito)<br>Biblioteca de D&D:<br><img src""></li>
+            <li>Ordem Paranormal</li>
+            <li>Tales from the Loop </li> 
+          </ul></dd>
       </dl>
     </details>
   </p>
