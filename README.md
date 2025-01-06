@@ -2,10 +2,24 @@
   <img src="https://github.com/rebeca-namura/rebeca-namura/blob/main/gifGit.gif?raw=true" alt="Olá, sou a Rebeca :)">
 </p>
 
-🤖 Aluna Inteli 1° ano
+👩‍💻 Aluna Inteli
 
-✍️ Curso: Ciências da Computação
+✍️ 1° ano Ciências da Computação
 
+🤖 Um pouco de experiência em computação
+
+<details>
+  <summary>👤 Um pouca mais sobre mim</summary>
+  <p> 
+  🌟 Me considero uma pessoa muito criativa <br>
+  🌈 Cores favoritas: preto, roxo, vermelho e azul
+  🍄 Amo natureza
+
+  
+  
+  
+  </p>
+</details>
 <!-- Para fazer o gif:
 me inspirei na [kterra]https://github.com/kterra
 fiz um vídeo no app capcut (mobile) e converti para gif em https://ezgif.com/video-to-gif
