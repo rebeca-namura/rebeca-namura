@@ -2,6 +2,12 @@
   <img width=100% height=400px src="https://github.com/rebeca-namura/rebeca-namura/blob/main/gifGit.gif?raw=true" alt="Olá, sou a Rebeca :)">
 </p>
 
+<!-- Para fazer o gif:
+me inspirei na [kterra]https://github.com/kterra
+fiz um vídeo no app capcut (mobile) e converti para gif em https://ezgif.com/video-to-gif
+fiz upload no repositório e copiei o endereço da imagem no src -->
+
+
 👩‍💻 Aluna Inteli <br>
 ✍️ 1° ano de Ciências da Computação<br>
 🤖 Um pouco de experiência em programação
@@ -22,18 +28,12 @@
   <dt>🎨 Pintar</dt>
   <dd>- Minhas obras:<br> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_1243.JPEG?raw=true"> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_2245.JPEG?raw=true"> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_7807.JPEG?raw=true"> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_8604.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6766.JPEG?raw=true"></dd>
   <dt>🧵 Costurar</dt>
-  <dd>- Minhas Produções:<br> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_7447.JPEG?raw=true"></dd>
+  <dd>- Minhas Produções:<br> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_7447.JPEG?raw=true"> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6313.JPEG?raw=true"> <img width=10% height=10% src=""></dd>
 </dl>
     </details>
   </p>
 </details>
 
-
-
-<!-- Para fazer o gif:
-me inspirei na [kterra]https://github.com/kterra
-fiz um vídeo no app capcut (mobile) e converti para gif em https://ezgif.com/video-to-gif
-fiz upload no repositório e copiei o endereço da imagem no src -->
 
 
 <!--
