@@ -10,8 +10,34 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
 💁‍♀️ 18 anos<br>
 👩‍💻 Aluna Inteli <br>
 ✍️ 1° ano de Ciências da Computação<br>
-🤖 Um pouco de experiência em programação<br>
-👾 Meu sonho é trabalhar com desenvolvimento de jogos e criar um de grande sucesso <br><br>
+👾 Meu sonho é trabalhar com desenvolvimento de jogos e criar um de grande sucesso <br>
+<details><summary>🤖 Um pouco de experiência em programação</summary>
+  <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+   <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+   <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  <img width="12" />
+<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="90" height="60"/>
+   <img width="12" />
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+   <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="9" />
+<img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="90" height="60"/>
+  <img width="9" />
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jquery" width="90" height="60"/>
+</details><br>
+
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 <h2>Um pouco mais sobre mim</h2>
   <details>
@@ -50,7 +76,7 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
             Biblioteca de D&D:<br><img src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_8773.JPEG?raw=true" height=30% width=30%>
           </ul></dd>
         <dt>🧚‍♀️ Cosplay</dt><br>
-        <dd>Alguns personagens que já fiz:<br><img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_12-01-2024-15-48-07.JPEG?raw=true"> <img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_27-04-2024-18-28-38.JPEG?raw=true"> <img width=18% height=16% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_18-12-2024-16-44-34.JPEG?raw=true"> <img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6343.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6231.PNG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_11-04-2023-11-58-32.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/3-0X2A8702-Aprimorado-NR.PNG?raw=true"> <br><br>📱 Redes sociais do assunto:<br> <br> <a href="https://instagram.com/_www.n0t_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40"/></a> <a href="https://www.tiktok.com/@www.n0t_end.cos?is_from_webapp=1&sender_device=pc" target="blank"><img src="https://github.com/rebeca-namura/rebeca-namura/blob/main/tik-tok.png?raw=true" height="40" width="40"></a></dd> <!-- para o icone do tiktok
+        <dd>Alguns personagens que já fiz:<br><img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_12-01-2024-15-48-07.JPEG?raw=true"> <img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_27-04-2024-18-28-38.JPEG?raw=true"> <img width=18% height=16% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_18-12-2024-16-44-34.JPEG?raw=true"> <img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6343.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6231.PNG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/Facetune_11-04-2023-11-58-32.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/3-0X2A8702-Aprimorado-NR.PNG?raw=true"> <br><br>📱 Redes sociais do assunto:<br> <br> <a href="https://instagram.com/_www.n0t_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40"/></a> <a href="https://www.tiktok.com/@www.n0t_end.cos?is_from_webapp=1&sender_device=pc" target="blank"> <img width="12" /><img src="https://github.com/rebeca-namura/rebeca-namura/blob/main/tik-tok.png?raw=true" height="40" width="40"></a></dd> <!-- para o icone do tiktok
 <a href="https://www.flaticon.com/free-icons/tiktok" title="tiktok icons">Tiktok icons created by Freepik - Flaticon</a> -->
         <dt>🌸 Assistir Animes</dt><br>
         <dd>Atualmente estou assistindo: Fullmetal Alchemist 🦾</dd>
@@ -60,7 +86,7 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
   <details>
     <summary>🎭 Uma das minhas várias peculiaridades</summary>
     <p>
-      Adoro colecionar livros raros (e, geralmente, caros) sobre criaturas feéricas (fadas, gnomos, trolls, etc) ou mitológicas e mundos mágicos. Gosto muito de aprender sobre coisas míticas e fantásticas, por mais que eu não acredite em sua existência.
+      Adoro colecionar livros raros (e, geralmente, caros) sobre criaturas feéricas (fadas, gnomos, trolls, etc) ou mitológicas e mundos mágicos. Gosto muito de aprender sobre coisas míticas e fantásticas, por mais que eu não acredite em suas existências.
     </p>
   </details>
 </details><br>
@@ -71,7 +97,7 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 <h3>Minhas redes sociais:</h3>
 <p>
-<a href="https://instagram.com/rebeca.namura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40"></a>    <a href="mailto:rebeca.sbroglio@sou.inteli.edu.br"><img  height="40" width="40" src="https://github.com/rebeca-namura/rebeca-namura/blob/main/mail.png?raw=true"></a>
+<a href="https://instagram.com/rebeca.namura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40"></a>   <img width="12" />  <a href="mailto:rebeca.sbroglio@sou.inteli.edu.br"><img  height="40" width="40" src="https://github.com/rebeca-namura/rebeca-namura/blob/main/mail.png?raw=true"></a>
 </p>
 <!--<a href="https://www.flaticon.com/free-icons/contact" title="contact icons">Contact icons created by meaicon - Flaticon</a>
 para o icone do email-->
