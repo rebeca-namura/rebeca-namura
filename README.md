@@ -49,8 +49,8 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
   🍄 Amo natureza<br>
   🦈 Tubarão é meu animal favorito <br>
   ☕️ Movida à base de cafeína <br></p>
-  Ouvindo...<br>
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rebeca9.0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"><br>
+  🎧 Ouvindo...<br>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rebeca9.0&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"><br>
    <!--<hr width=50% style="dotted">-->
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *<br>
 💡 Hobbies:
@@ -85,6 +85,20 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
       </dl>
     </details>
   </p>
+  <details>
+    <summary>🌎 O universo das leituras</summary>
+    <p>
+     📔 Eu sou uma devoradora de tudo que contém palavras 📜
+    </p>
+    <dl>
+      <dt>📝 Webtoons/Manhwas/Manhuas/Mangás</dt><br>
+      <dd>Essas histórias em quadrinhos são, definitivamente, o tipo de leitura que eu mais consumo. Atualmente, (de acordo com uma tabela que eu criei) eu leio aproximadamente 400 por ano 🤭</dd>
+      <dd>Meus favoritos são:<br>
+      </dd>
+      <dt>📚 Livros de papel</dt><br>
+      <dd>Meus gêneros favoritos são: fantasia, ficção, terror e suspense. Ultimamente, eu mais compro livros do que leio, cheguei a criar uma tabela para me motivar. Quero ver se nesse ano não consigo ler mais.</dd>
+    </dl>
+  </details>
   <details>
     <summary>🎭 Uma das minhas várias peculiaridades</summary>
     <p>
