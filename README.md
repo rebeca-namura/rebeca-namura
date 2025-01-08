@@ -87,7 +87,7 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
   </p>
   <details>
     <summary>🌎 O universo das leituras</summary>
-     <img src="https://s7.ezgif.com/tmp/ezgif-7-1cb11e35c5.gif" alt="Amo ler :)">
+     <img width=50% height=40% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/giflibrary.gif?raw=true" alt="Amo ler :)">
     <p>
      📔 Eu sou uma devoradora de tudo que contém palavras 📜
     </p>
@@ -116,6 +116,10 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
 <p>Quem está me ajundando nessa nova jornada é a <a href="https://github.com/lupetenazzi">Luiza Petenazzi</a>. Agradeço muito a sua ajuda, você foi muito meiga comigo desde o ínicio. Espero evoluir muito com sua ajuda e com o Inteli!</p>
 <br>
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+<h3>📈Estatísticas:</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=rebeca-namura&show_icons=true&theme=tokyonight"><br>
+<!-- (https://github.com/anuraghazra/github-readme-stats)
+-->
 <h3>Minhas redes sociais:</h3>
 <p>
 <a href="https://instagram.com/rebeca.namura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40"></a>   <img width="12" />  <a href="mailto:rebeca.sbroglio@sou.inteli.edu.br"><img  height="40" width="40" src="https://github.com/rebeca-namura/rebeca-namura/blob/main/mail.png?raw=true"></a>
