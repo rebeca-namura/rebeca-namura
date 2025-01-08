@@ -49,6 +49,8 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
   🍄 Amo natureza<br>
   🦈 Tubarão é meu animal favorito <br>
   ☕️ Movida à base de cafeína <br></p>
+  Ouvindo...<br>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rebeca9.0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"><br>
    <!--<hr width=50% style="dotted">-->
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *<br>
 💡 Hobbies:
