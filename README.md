@@ -87,6 +87,7 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
   </p>
   <details>
     <summary>🌎 O universo das leituras</summary>
+     <img src="https://s7.ezgif.com/tmp/ezgif-7-1cb11e35c5.gif" alt="Amo ler :)">
     <p>
      📔 Eu sou uma devoradora de tudo que contém palavras 📜
     </p>
@@ -97,6 +98,9 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
       </dd>
       <dt>📚 Livros de papel</dt><br>
       <dd>Meus gêneros favoritos são: fantasia, ficção, terror e suspense. Ultimamente, eu mais compro livros do que leio, cheguei a criar uma tabela para me motivar. Quero ver se nesse ano não consigo ler mais.</dd>
+      <dd>Recomendações:<br>
+      <img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_1243.JPEG?raw=true">
+      </dd>
     </dl>
   </details>
   <details>
