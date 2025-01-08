@@ -99,7 +99,7 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
       <dt>📚 Livros de papel</dt><br>
       <dd>Meus gêneros favoritos são: fantasia, ficção, terror e suspense. Ultimamente, eu mais compro livros do que leio, cheguei a criar uma tabela para me motivar. Quero ver se nesse ano não consigo ler mais.</dd>
       <dd>Recomendações:<br>
-      <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/972manga_panini_tower_of_.jpg?raw=true"> <img width=15% height=15% src="">
+      <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/972manga_panini_tower_of_.jpg?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/6583f1bf764c8252e47f9572-omniscient-reader-39-s-viewpoint-vol.jpg?raw=true"> <img width=15% height=15% src="">
       </dd>
     </dl>
   </details>
