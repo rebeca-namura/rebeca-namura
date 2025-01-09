@@ -118,7 +118,7 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 <h3>📈Estatísticas:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=rebeca-namura&show_icons=true&theme=tokyonight"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeca-namura&layout=donut&theme=tokyonight">
 <br>
 <!-- (https://github.com/anuraghazra/github-readme-stats)
 -->
