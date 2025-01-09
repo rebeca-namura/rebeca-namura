@@ -57,11 +57,11 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
     <details>
       <summary>👅 Os mais clássicos</summary>
         <dl>
-  <dt>🎨 Pintar</dt>
+  <dt>🎨 Pintar</dt><br>
   <dd>- Minhas obras:<br> <img width=18% height=18% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_1243.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_2245.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_7807.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_8604.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6766.JPEG?raw=true"></dd>
-  <dt>🧵 Costurar</dt>
+  <dt>🧵 Costurar</dt><br>
   <dd>- Minhas Produções:<br> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_7447.JPEG?raw=true"> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_6313.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_5207.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_5734.JPEG?raw=true"></dd>
-  <dt>💄 Maquiagem</dt>
+  <dt>💄 Maquiagem</dt><br>
   <dd>- Meus Looks:<br> <img width=10% height=10% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_2614.JPEG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/2-0X2A8710-Aprimorado-NR.PNG?raw=true"> <img width=15% height=15% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/EF6553B4-FCFB-4F76-B38D-7E284D6AB80C.JPEG?raw=true"> <img width=20% height=20% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_0464.JPEG?raw=true"> <img width=12% height=12% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/IMG_3786.JPEG?raw=true"></dd>
 </dl>
     </details>
@@ -86,8 +86,8 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
     </details>
   </p>
   <details>
-    <summary>🌎 O universo das leituras</summary>
-     <img width=50% height=40% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/giflibrary.gif?raw=true" alt="Amo ler :)">
+    <summary>🌎 O universo das leituras</summary><br>
+     <img width=50% height=40% src="https://github.com/rebeca-namura/rebeca-namura/blob/main/giflibrary.gif?raw=true" alt="Amo ler :)"><br><br>
     <p>
      📔 Eu sou uma devoradora de tudo que contém palavras 📜
     </p>
@@ -113,11 +113,13 @@ fiz upload no repositório e copiei o endereço da imagem no src -->
 </details><br>
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 <h2>✨Minha Buddy✨</h2>
-<p>Quem está me ajundando nessa nova jornada é a <a href="https://github.com/lupetenazzi">Luiza Petenazzi</a>. Agradeço muito a sua ajuda, você foi muito meiga comigo desde o ínicio. Espero evoluir muito com sua ajuda e com o Inteli!</p>
+<p>Quem está me ajudando nessa nova jornada é a <a href="https://github.com/lupetenazzi">Luiza Petenazzi</a>. Agradeço muito a sua ajuda, você foi muito meiga comigo desde o ínicio. Espero evoluir muito com sua ajuda e com o Inteli!</p>
 <br>
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 <h3>📈Estatísticas:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=rebeca-namura&show_icons=true&theme=tokyonight"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight">
+<br>
 <!-- (https://github.com/anuraghazra/github-readme-stats)
 -->
 <h3>Minhas redes sociais:</h3>
